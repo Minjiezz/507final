@@ -1,16 +1,16 @@
-### 507final
+# 507final
 
 ## Special instructions
 
-# API keys
+### API keys
 
 I have already put my api keys in the document, in order to make users easier.
 
-# Required Python packages
+### Required Python packages
 
 requests, json, time, numpy, plotly.express, pandas
 
-# Data Structure (graphs or trees)
+### Data Structure (graphs or trees)
 
 I use 2 classes to organize my data of current weather and weather forecast:
 
@@ -27,3 +27,9 @@ Sample output:
 <img width="994" alt="Screen Shot 2022-04-29 at 9 27 28 AM" src="https://user-images.githubusercontent.com/91082330/165985400-f0036f00-f182-4ba1-a7ed-be59a4e28a25.png">
 
 <img width="999" alt="Screen Shot 2022-04-29 at 9 27 02 AM" src="https://user-images.githubusercontent.com/91082330/165985429-552edc62-d71a-4217-94a1-378fefbc3707.png">
+
+### Sample interaction
+
+<img width="993" alt="Screen Shot 2022-04-29 at 9 30 23 AM" src="https://user-images.githubusercontent.com/91082330/165985887-22a6272b-3baa-4584-8237-c94a93ecbb54.png">
+
+<img width="1381" alt="Screen Shot 2022-04-29 at 9 29 54 AM" src="https://user-images.githubusercontent.com/91082330/165985913-7b81a5bf-ec78-45e4-9c03-262715a71149.png">
